@@ -1,3 +1,4 @@
+# Reproduce CancerGNN
 # CancerGNN: A deep graph learning pipeline for genomic data analysis
 
 Codebase associated with [Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures](https://arxiv.org/abs/2309.16645). We re-implement the neural network architecture from [Biologically informed deep neural network for prostate cancer discovery](https://www.nature.com/articles/s41586-021-03922-4) in [PyTorch](https://pytorch.org/).
